@@ -19,7 +19,7 @@
     
   </a>
 
-  <h3 align="center">AIStudy</h3>
+  <h3 align="center">DipLlama</h3>
 
   <p align="center">
     An easily extendable RAG Application that allows you to interact with your documents in a fun and interactive manner, promoting understanding and engagement!
