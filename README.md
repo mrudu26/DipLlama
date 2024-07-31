@@ -16,7 +16,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Hasbi-sabah/AIStudy">
-    <img src="https://img.freepik.com/premium-photo/close-up-llama-wearing-graduation-cap-gown-generative-ai_974539-29648.jpg?w=420" alt="Logo" width="80" height="80">
+    
   </a>
 
   <h3 align="center">AIStudy</h3>
